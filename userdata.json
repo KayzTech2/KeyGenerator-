@@ -12,3 +12,8 @@
         "Allowoffline": false
     }
 ]
+{
+        "device_id": "7f2384e515bd6b50",
+        "key": "key256",
+        "expirydate": "30-12-2027",
+        "Allowoffline": true
